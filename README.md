@@ -1,6 +1,6 @@
 # beshell
 > a shell for UNIX operating systems 
-> with C programming lagnauge.
+> with C programming language.
 
 
   ##### Features
